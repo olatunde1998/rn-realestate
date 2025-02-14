@@ -61,7 +61,7 @@ const Profile = () => {
               <Image source={icons.edit} className="size-9" />
             </TouchableOpacity>
             <Text className="text-2xl font-rubik-bold mt-2">
-              Adrian | JS Mastery
+              Rasheed | Olatunde
             </Text>
           </View>
         </View>
